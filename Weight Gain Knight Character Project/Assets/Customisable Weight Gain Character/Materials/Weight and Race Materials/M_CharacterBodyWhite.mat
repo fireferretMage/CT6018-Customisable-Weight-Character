@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_CharacterBodyWhite
+  m_Shader: {fileID: -6465566751694194690, guid: 2a5f36e478002454f83fd6bf8a08724a,
+    type: 3}
+  m_ShaderKeywords: _DETAIL_MULX2 _METALLICGLOSSMAP _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_27F97E80_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 8d3e771e83bb3c74086770db0b001d55, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_308FE6F8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7a181d1306bbebb4f9dbf36d5535daed, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_330D2878_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a8534b707c59f874f95abdf8b51d6826, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3AA99E5D_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0d50726df9acc5a40913dc0530b43f85, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8F70231A_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 1ffa852dd2487d94b860a5e46b6fc87b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_910D4D53_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6b8a4d49c045e1a4cae7fbca1f941eb5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9148FCA6_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 7faeb8d23db54a041b6bd8e22c36e194, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9D2003E9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 1bd43c8f8efb8e745a45251db31edaa4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9D54C88F_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 250759684cab679429d67ae7f7579558, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_B11852AF_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 490f7aec225507944aeb214f66cf93f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_D9A80792_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0d50726df9acc5a40913dc0530b43f85, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DBC5A967_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e1e0bc4e969b78748a7f53142b6a5d4b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DC723ED_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c62da0789b18cf746a6a316d2ddc1c4e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DF427061_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 02beb85c8684dd14cbd3f0fc7ffcdf69, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E2BF5FF6_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E88312B2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: fbf40621f2906d146acea37565ff73cb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_F711324_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e1e0bc4e969b78748a7f53142b6a5d4b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_FE7F46D4_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 666dd596b7cc7a14c8f6fabd8c04245c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _WeightSliderBlack: 0
+    - _WeightSliderWhite: 1
+    m_Colors: []
